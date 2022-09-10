@@ -4,7 +4,7 @@ A simple calculator written in C++ using wxWidgets. The code is not perfect. Thi
 ![Screenshot](https://raw.githubusercontent.com/FarahaniMehrshad/Calculator/main/Images/photo_2022-09-08_23-43-49.jpg)
 
 # Table of content
-1. [Features](http://https://github.com/FarahaniMehrshad/Calculator#features "Features")
+1. [Features](http://github.com/FarahaniMehrshad/Calculator#features "Features")
 2. [Why wxWidgets over Qt?](https://github.com/FarahaniMehrshad/Calculator#why-wxwidgets-and-not-qt "Why wxWidgets over Qt?")
 3. [How to compile?](https://github.com/FarahaniMehrshad/Calculator#how-to-compile "How to compile?")
 4. [What is mfTreeUi.exe?](https://github.com/FarahaniMehrshad/Calculator#what-does-mftreeuiexe-do "What is mfTreeUi.exe?")
