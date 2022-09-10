@@ -1,7 +1,7 @@
 # Calculator
 A simple calculator written in C++ using wxWidgets. The code is not perfect. This is what newbies do in their free time. But you may find it useful for study purpose.
 
-![Screenshot](https://raw.githubusercontent.com/FarahaniMehrshad/Calculator/main/Images/photo_2022-09-08_23-43-49.jpg?token=GHSAT0AAAAAABR7JOOX7H2W7PV2SYBTUVVGYY4ZSEQ)
+![Screenshot](https://raw.githubusercontent.com/FarahaniMehrshad/Calculator/main/Images/photo_2022-09-08_23-43-49.jpg)
 
 # Table of content
 1. Features
